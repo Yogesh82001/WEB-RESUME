@@ -1,2 +1,0 @@
-# MYWEBRESUME
-web resume 
